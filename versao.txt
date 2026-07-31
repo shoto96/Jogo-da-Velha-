@@ -1,0 +1,36 @@
+🎮 Jogo da Velha Pro — Ultimate Edition v2.0
+
+✨ Novidades
+
+* 4 temas visuais (Dark, Light, Black & Red, White & Purple)
+* Modo 2 jogadores (PvP local)
+* Escolha de símbolo (X ou O)
+* Timer por jogada configurável
+* Desfazer jogada (Undo)
+* Histórico em tempo real
+* Ranking persistente (Top 20)
+* Painel de configurações completo
+* Controle de volume + efeitos (hover, partículas, preview)
+* Salvamento automático via LocalStorage
+
+⚙️ Recursos
+
+* Canvas HTML5 com renderização HiDPI
+* IA com Minimax + Alpha-Beta Pruning
+* 4 níveis de dificuldade
+* Sons com Web Audio API
+* Animações e partículas
+* Design moderno (Material UI + Glassmorphism)
+* Responsivo e compatível com touch
+
+🎮 Controles
+
+* Clique para jogar
+* Escolha modo, tema, dificuldade e símbolo
+* Botões: desfazer, nova partida, resetar stats
+* Configurações completas disponíveis
+
+📁 Arquivos
+
+index.html • styles.css • game.js • README.md • versao.txt
+
